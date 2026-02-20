@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ヤッタルチャン",
+  "base_artist": "スマイレージ",
+  "createdAt": "2026-02-20T07:43:31.366676Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヤッタルチャン",
+      "artist": "スマイレージ",
+      "has_synced": false,
+      "path": "select/pl_01_ヤッタルチャン_スマイレージ.txt"
+    }
+  ]
+}
